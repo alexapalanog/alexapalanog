@@ -1,4 +1,4 @@
-<h1 align="center">Alexa Palanog 👋</h1>
+<h1 align="center">Alexandra Antonette Palanog 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=640&height=45&lines=Computer+Science+%7C+Data+Science+%40+UST;QA+Engineer+Intern+%40+Navitaire+(Amadeus);IT+Business+Analyst+Intern+%40+Home+Credit;AI+Agents+%C2%B7+Full-Stack+%C2%B7+Data" alt="Typing SVG" />
@@ -86,7 +86,7 @@ Geospatial smart-tourism platform blending heritage, architecture, and sustainab
 - 🥈 **PUP Programmer's Guild Coding Challenge 2025** — 1st Runner-Up
 - 🌟 **Globe Innovania 2025** — Role Model Community Award & Content Creation Award
 - 📜 **Dean's Lister** — University of Santo Tomas (AY 2025–2026)
-- 🦁 Co-founded two orgs: **AWS Learning Club – UST** (Chief Finance Officer) & **UST Technovation Society** (Director for Publicity) — plus VP for Audit & Logistics, UST CISCO Networking Academy Gateway
+- 🦁 Co-founded two orgs: **AWS Learning Club – UST** (Chief Finance Officer) & **UST Technovation Society** (Director for Publicity) 
 
 ## 🤝 Connect With Me
 
@@ -102,4 +102,4 @@ Geospatial smart-tourism platform blending heritage, architecture, and sustainab
   </a>
 </div>
 
-<p align="center"><i>Open to new-graduate opportunities in QA, data science, and full-stack engineering — let's build something great!</i></p>
+<p align="center"><i>Open to new-graduate opportunities in Business Analyst, Quality Assurance, Data Analyst, and full-stack engineering — let's build something great!</i></p>
